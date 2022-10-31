@@ -22,8 +22,6 @@ This is the place where I opensource stuff and break things 😃
 
 ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?&karthikyelisetti&layout=compact&&theme=default&link=https://www.github.com/karthikyelisetti/">
-
 <!--<details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
