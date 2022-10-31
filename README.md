@@ -20,7 +20,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 [![wakatime](https://wakatime.com/badge/github/karthikyelisetti/Programming.svg)](https://wakatime.com/badge/github/karthikyelisetti/Programming)
 
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&v=2)
+![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <!--<details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
