@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things 😃
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Python, Advanced HTML & CSS and JavaScript
-- 💬 &nbsp;Ask me about anything related to Javascript/Python
+- 💬 &nbsp;Ask me about anything related to Python/ HTML & CSS/ JavaScript
 - 📫 &nbsp;How to reach me: [@karthikyelisetti](karthikyelisetti.dev@gmail.com)
 - 👨‍💻 &nbsp;Read more about my projects at - coming soon...
 - ⚡ &nbsp;Fun fact: I :heart: :the game of cricket and Mobile Gaming
