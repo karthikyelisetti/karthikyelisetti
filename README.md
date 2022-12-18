@@ -1,8 +1,8 @@
 hi, i'm Karthik Yelisetti, a passionate full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 💼 any freelance work? do reach, [@karthikyelisetti](karthikyelisetti.dev@gmail.com) 😃
-
 💬 ask me about anything, i am happy to help;
+<br /><br />
 
 **languages and tools:**
 
@@ -13,7 +13,7 @@ hi, i'm Karthik Yelisetti, a passionate full stack web developer and a freelance
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-
+<br /><br />
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/karthikyelisetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="karthiky" height="30" width="40" /></a>
