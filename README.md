@@ -1,9 +1,17 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things 😃
+hi, i'm Karthik Yelisetti, a passionate full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 💬 &nbsp;Ask me about anything related to Python/ HTML & CSS/ JavaScript
-- 📫 &nbsp;How to reach me: [@karthikyelisetti](karthikyelisetti.dev@gmail.com)
+💼 any freelance work? do reach, [@karthikyelisetti](karthikyelisetti.dev@gmail.com) 😃
+💬 ask me about anything, i am happy to help;
+
+**languages and tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -18,9 +26,7 @@ This is the place where I opensource stuff and break things 😃
 [![wakatime](https://wakatime.com/badge/github/karthikyelisetti/Programming.svg)](https://wakatime.com/badge/github/karthikyelisetti/Programming)
 
 ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+  
+📈 my github stats
 
-<!--<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-
-I am a Full Stack Developer with 1+ years of experience in developing Web applications.-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&theme=gotham" alt="karthikyelisetti" />
