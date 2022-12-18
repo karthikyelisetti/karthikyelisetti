@@ -26,11 +26,10 @@ hi, i'm Karthik Yelisetti, a passionate full stack web developer and a freelance
 <!--<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthiky" height="30" width="40" /></a>-->
 <br />
 <br />
-📊 &nbsp;**This week I spent my time on**    
-<br />
-<br />
+📊 &nbsp;**This week I spent my time on**  
+  
 [![wakatime](https://wakatime.com/badge/github/karthikyelisetti/Programming.svg)](https://wakatime.com/badge/github/karthikyelisetti/Programming)    
 ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
   
-📈 my github stats  
+📈 **my github stats**
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&theme=gotham" alt="karthikyelisetti" />
