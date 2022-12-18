@@ -16,6 +16,7 @@ hi, i'm Karthik Yelisetti, a passionate full stack web developer and a freelance
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <br />
 <br />
+
 🔗 **Connect with me**    
 
 <p align="left">
@@ -26,6 +27,7 @@ hi, i'm Karthik Yelisetti, a passionate full stack web developer and a freelance
 <!--<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthiky" height="30" width="40" /></a>-->
 <br />
 <br />
+
 📊 **This week I spent my time on**  
   
 [![wakatime](https://wakatime.com/badge/github/karthikyelisetti/Programming.svg)](https://wakatime.com/badge/github/karthikyelisetti/Programming)    
