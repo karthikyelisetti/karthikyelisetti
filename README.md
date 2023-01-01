@@ -8,21 +8,21 @@ hi, i'm [Karthik Yelisetti](karthikyelisetti.dev@gmail.com), a passionate full s
 **languages and tools:**
 <br />
 <br />
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code>
+<code><img height="42" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>
+<code><img height="42" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></code>
+<code><img height="42" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></code>
+<code><img height="42" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></code>
+<code><img height="42" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></code>
+<code><img height="42" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code>
 <br />
 <br />
 
 🔗 **Connect with me**    
 
 <p align="left">
-<a href="https://dev.to/karthikyelisetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="karthiky" height="21" width="30" /></a>
-<a href="https://www.linkedin.com/in/karthikyelisetti" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="karthiky" height="21" width="30" /></a>
-<a href="https://stackoverflow.com/users/19898320" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="19898320" height="21" width="30" /></a>
+<a href="https://dev.to/karthikyelisetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="karthiky" height="24" width="30" /></a>
+<a href="https://www.linkedin.com/in/karthikyelisetti" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="karthiky" height="24" width="30" /></a>
+<a href="https://stackoverflow.com/users/19898320" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="19898320" height="24" width="30" /></a>
 <br />
 <br />
 
