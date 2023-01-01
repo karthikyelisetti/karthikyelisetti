@@ -21,8 +21,8 @@ hi, i'm [Karthik Yelisetti](karthikyelisetti.dev@gmail.com), a passionate full s
 
 <p align="left">
 <a href="https://dev.to/karthikyelisetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="karthiky" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/karthikyelisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthiky" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19898320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19898320" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karthikyelisetti" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="karthiky" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19898320" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="19898320" height="30" width="40" /></a>
 <br />
 <br />
 
