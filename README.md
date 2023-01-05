@@ -32,4 +32,4 @@ hi, i'm [Karthik Yelisetti](karthikyelisetti.dev@gmail.com), a passionate full s
 ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
   
 📈 **my github stats**
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&theme=gotham" alt="karthikyelisetti" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&theme=transparent" alt="karthikyelisetti" />
