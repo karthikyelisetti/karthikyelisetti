@@ -29,6 +29,7 @@ hi, i'm [Karthik Yelisetti](karthikyelisetti.dev@gmail.com), a passionate full s
 📊 **This week I spent my time on**  
   
 [![wakatime](https://wakatime.com/badge/github/karthikyelisetti/Programming.svg)](https://wakatime.com/badge/github/karthikyelisetti/Programming)    
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_border=true&langs_count=5&custom_title=Weekly%20Coding%20Stats&title_color=600&text_color=666)
+  
+<p align="left"> <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_border=true&langs_count=5&custom_title=Weekly%20Coding%20Stats&title_color=600&text_color=666" />
   
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&theme=transparent&hide_border=true&title_color=600&icon_color=600&text_color=600&hide=contribs&custom_title=Github%20Stats" />
