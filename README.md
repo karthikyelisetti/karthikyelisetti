@@ -1,33 +1,25 @@
-![](https://visitor-badge.glitch.me/badge?page_id=karthikyelisetti)    
-hi, i'm [Karthik Yelisetti](karthikyelisetti.dev@gmail.com), a passionate full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.  
+<h1 align="center">Hi 👋, I'm Karthik Yelisetti</h1>
+<h3 align="center">A passionate full stack web developer and a freelance software engineer from India</h3>
 
-💼 any freelance work? do reach, [@karthikyelisetti](karthikyelisetti.dev@gmail.com) 😃  
-💬 ask me about anything, i am happy to help;
-<br />
-<br />
-**languages and tools:**
-<br />
-<br />
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code>
-<br />
-<br />
+<p align="left">My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
-🔗 **Connect with me**    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikyelisetti&label=Profile%20views&color=0e75b6&style=flat" alt="karthikyelisetti" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://karthikyelisetti.com](https://karthikyelisetti.com)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/karthikyelisetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="karthiky" height="27" width="30" /></a>
-<a href="https://www.linkedin.com/in/karthikyelisetti" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="karthiky" height="27" width="30" /></a>
-<a href="https://stackoverflow.com/users/19898320" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="19898320" height="27" width="30" /></a>
-<br />
-<br />
+<a href="https://dev.to/karthikyelisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="karthikyelisetti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karthikyelisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikyelisetti" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19898320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19898320" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/karthikyelisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karthikyelisetti" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/karthikyelisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthikyelisetti" height="30" width="40" /></a>
+<a href="https://discord.gg/1923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1923" height="30" width="40" /></a>
+</p>
 
-[![wakatime](https://wakatime.com/badge/github/karthikyelisetti/Programming.svg)](https://wakatime.com/badge/github/karthikyelisetti/Programming)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthikyelisetti&hide_border=true&langs_count=5&custom_title=Weekly%20Coding%20Stats&title_color=600&text_color=666" width="390" />
-  
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&theme=transparent&hide_border=true&title_color=600&icon_color=600&text_color=600&hide=contribs&custom_title=Github%20Stats" width="390" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&locale=en" alt="karthikyelisetti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikyelisetti&" alt="karthikyelisetti" /></p>
