@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik Yelisetti</h1>
-<h3 align="center">A passionate full stack web developer and a freelance software engineer from India</h3>
+<h3 align="center">Experienced professional with a strong background in software development and quality assurance. Proven track record in ReactJS, NodeJS and PL/SQL. Skilled in requirement analysis, agile waterfall methodologies, technical & feasible studies</h3>
 
 <p align="left">My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
