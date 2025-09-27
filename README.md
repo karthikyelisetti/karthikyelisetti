@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🎥 I am passionate about building scalable applications **[Portfolio](https://karthikyelisetti.com)**  
-- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **JavaScript**, and **NodeJS & ExpressJS**
+- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **JavaScript**, **NodeJS**, **ExpressJS**, **MongoDB**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
