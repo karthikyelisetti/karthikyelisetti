@@ -1,25 +1,39 @@
-<h1 align="center">Hi 👋, I'm Karthik Yelisetti</h1>
-<h3 align="center">Experienced professional with a strong background in software development and quality assurance. Proven track record in ReactJS, NodeJS and PL/SQL. Skilled in requirement analysis, agile waterfall methodologies, technical & feasible studies</h3>
+# 👋 Hey, I'm Karthik – aka **<IncognitoCoding />** 👨‍💻
 
-<p align="left">My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;YouTuber+@pedrotechnologies;" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikyelisetti&label=Profile%20views&color=0e75b6&style=flat" alt="karthikyelisetti" /> </p>
+---
 
-- 👨‍💻 All of my projects are available at [karthikyelisetti](https://karthikyelisetti.com)
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/karthikyelisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="karthikyelisetti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karthikyelisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikyelisetti" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19898320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19898320" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/karthikyelisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karthikyelisetti" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karthikyelisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthikyelisetti" height="30" width="40" /></a>
-<a href="https://discord.gg/1923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1923" height="30" width="40" /></a>
-</p>
+- 🎥 I am passionate about building scalable applications **[Portfolio](https://karthikyelisetti.com)**  
+- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **Supabase**
+- 🧠 Constantly learning & sharing what I learn
+- 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&locale=en" alt="karthikyelisetti" /></p>
+## 🧠 My Favorite Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikyelisetti&" alt="karthikyelisetti" /></p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&theme=react&hide=contribs&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikyelisetti&theme=react" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/karthikyelisetti)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikyelisetti)
