@@ -27,7 +27,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&theme=react&hide=contribs&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikyelisetti&theme=react" />
 </div>
 
