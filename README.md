@@ -17,9 +17,11 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+[![Karthik's GitHub stats](https://github-stats-extended.vercel.app/api?username=karthikyelisetti)](https://github.com/stats-organization/github-stats-extended)
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&theme=react&hide=contribs&count_private=true" />
-</div>
+</div> -->
 
 ---
 
