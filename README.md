@@ -15,15 +15,6 @@
 
 ---
 
-## 🧠 My Favorite Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3178C6?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -34,5 +25,4 @@
 
 ## 🤝 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/karthikyelisetti)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikyelisetti)
