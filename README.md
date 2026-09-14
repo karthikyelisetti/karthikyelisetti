@@ -11,8 +11,6 @@
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
---
-
 ### 📈 GitHub Stats
 
 [![Karthik's GitHub stats](https://github-stats-extended.vercel.app/api?username=karthikyelisetti)](https://github.com/stats-organization/github-stats-extended)
