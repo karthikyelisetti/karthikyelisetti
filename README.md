@@ -19,37 +19,25 @@
 
 [![Karthik's GitHub stats](https://github-stats-extended.vercel.app/api?username=karthikyelisetti)](https://github.com/stats-organization/github-stats-extended)
 
-## Card Types
-
-- Show your GitHub statistics:
+- Top languages used...:
 
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=karthikyelisetti&langs_count=4&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" alt="Anurag's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=karthikyelisetti&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
 
-- ...your top languages...:
-
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
-
-- ...and development time:
+- Development time:
 
   <a href="https://wakatime.com/@alan">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark_github"
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=karthikyelisetti&langs_count=6&theme=dark_github"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=light_github" alt="Alan's WakaTime stats" />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=karthikyelisetti&langs_count=6&theme=light_github" alt="Alan's WakaTime stats" />
     </picture>
   </a>
 
@@ -58,10 +46,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark_github_repocard"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=karthikyelisetti&repo=github-readme-stats&theme=dark_github_repocard"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=karthikyelisetti&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
     </picture>
   </a>
 
