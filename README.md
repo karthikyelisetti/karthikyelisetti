@@ -27,12 +27,8 @@
     </picture>
   </a>
 
-  [![Karthik's GitHub stats](https://github-stats-extended.vercel.app/api/?username=karthikyelisetti&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Karthik's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=karthikyelisetti&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
-
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karthikyelisetti&show_icons=true&theme=react&hide=contribs&count_private=true" />
 </div> -->
 
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikyelisetti)
+### Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikyelisetti)
