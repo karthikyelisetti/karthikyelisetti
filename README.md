@@ -6,14 +6,14 @@
 
 Engineering Manager with 15+ years in Development (Database, Frontend, Backend), QA, automation, and release engineering. I lead Release Engineering at Veeva Systems in India, along with driving QA Operations to help teams plan, test, and ship better. I focus on what makes releases boring in the best way: reliable CI/CD, strong quality gates, clear governance, and a culture where engineers own quality end-to-end.
 
-### 🚀 About me
+### About me
 
 - 🎥 I am passionate about building scalable applications **[Portfolio](https://karthikyelisetti.com)**  
 - 💻 Passionate about building fullstack apps with **React**, **Next.js**, **JavaScript**, **NodeJS**, **ExpressJS**, **MongoDB**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
-### 📈 GitHub stats
+### GitHub stats
 
 [![Karthik's GitHub stats](https://github-stats-extended.vercel.app/api?username=karthikyelisetti)](https://github.com/stats-organization/github-stats-extended)
 
