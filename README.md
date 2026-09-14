@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0D7E9D&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;Professional+Coder;UI/UX+Designer;" alt="Typing SVG" />
 </div>
 
-Engineering Manager with 15+ years in Development (Database & Frontend), QA, automation, and release engineering. I lead Release Engineering at Veeva Systems in India, along with driving QA Operations to help teams plan, test, and ship better. I focus on what makes releases boring --> in the best way: reliable CI/CD, strong quality gates, clear governance, and a culture where engineers own quality end-to-end.
+Engineering Manager with 15+ years in Development (Database & Frontend), QA, automation, and release engineering. I lead Release Engineering at Veeva Systems in India, along with driving QA Operations to help teams plan, test, and ship better. I focus on what makes releases boring in the best way: reliable CI/CD, strong quality gates, clear governance, and a culture where engineers own quality end-to-end.
 
 ### 🚀 About Me
 
