@@ -4,34 +4,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;Professional+Coder;UI/UX+Designer;" alt="Typing SVG" />
 </div>
 
----
+--
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎥 I am passionate about building scalable applications **[Portfolio](https://karthikyelisetti.com)**  
 - 💻 Passionate about building fullstack apps with **React**, **Next.js**, **JavaScript**, **NodeJS**, **ExpressJS**, **MongoDB**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
----
+--
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 [![Karthik's GitHub stats](https://github-stats-extended.vercel.app/api?username=karthikyelisetti)](https://github.com/stats-organization/github-stats-extended)
 
-- Top languages used...:
+# Development time:
 
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=karthikyelisetti&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=karthikyelisetti&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
-
-- Development time:
-
-  <a href="https://wakatime.com/@alan">
+  <a href="https://wakatime.com/@karthikyelisetti">
     <picture>
       <source
         srcset="https://github-stats-extended.vercel.app/api/wakatime?username=karthikyelisetti&langs_count=6&theme=dark_github"
@@ -41,27 +31,15 @@
     </picture>
   </a>
 
-- Pin more than 6 repos in your GitHub profile:
+# Pin more than 6 repos in your GitHub profile:
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/karthikyelisetti/github-readme-stats">
     <picture>
       <source
         srcset="https://github-stats-extended.vercel.app/api/pin/?username=karthikyelisetti&repo=github-readme-stats&theme=dark_github_repocard"
         media="(prefers-color-scheme: dark)"
       />
       <img src="https://github-stats-extended.vercel.app/api/pin/?username=karthikyelisetti&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
-    </picture>
-  </a>
-
-- Pin Gists in your GitHub profile:
-
-  <a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=dark_github_repocard"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=light_github_repocard" alt="Gist Card" />
     </picture>
   </a>
 
